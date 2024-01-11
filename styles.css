@@ -10,12 +10,12 @@ body, h1, h2, p, ul, li, a {
 /* Basic styling */
 body {
     font-family: Arial, sans-serif;
-    color: #565656;
-    background-color: #FFFFFF;
+    color: #565656; /* Dark Gray for text */
+    background-color: #FFFFFF; /* White background */
 }
 
 header {
-    background-color: #000000;
+    background-color: #fba92c; /* Hot Orange for header */
     color: #FFFFFF;
     text-align: center;
     padding: 1em 0;
@@ -47,7 +47,7 @@ section {
 }
 
 footer {
-    background-color: #9e9e9e;
+    background-color: #9e9e9e; /* Light Gray for footer */
     color: #FFFFFF;
     text-align: center;
     padding: 1em 0;
@@ -65,4 +65,3 @@ footer {
 .hot-orange {
     color: #fba92c;
 }
-    
